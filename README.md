@@ -15,3 +15,7 @@ Learn how to work with cvs data with node and analyze the data to report
 3. Update script in package.json with the following
 
    `"scripts": { "start:build": "tsc -w", "start:run": "nodemon build/index.js", "start": "concurrently npm:start:*" },`
+
+## Notes
+
+1. When working with Node.js install `@types/node` for Type Definition File
