@@ -20,3 +20,4 @@ Learn how to work with cvs data with node and analyze the data to report
 
 1. When working with Node.js install `@types/node` for Type Definition File
 2. Enums or enumeration in TypeScript signals other engineers that it contains closely related properties
+3. 1st approach to make the code reusable, used Generics and Abstract class
